@@ -17,6 +17,14 @@
 |- |[PS2stats-for-message-handler](https://github.com/l0b5ter/PS2stats-for-message-handler) |Show planetside2 players info! This works with every pc server including ps4 servers. |Public |
 |[Event_Bot](https://github.com/l0b5ter/Event_Bot) | |The Event_bot allows you to set up upcoming events in your server and then notify your members of those events when they happen! |Public |
 |[Halloween-special-discord-bot-](https://github.com/l0b5ter/Halloween-special-discord-bot-) | |Halloween special (discord bot) |Public |
+
+## MMM (MagicMirror)
+|Title|Description|Group|Access|
+|:-|:-|:-|
+|[KeyDisplayed](https://github.com/l0b5ter/KeyDisplayed) |Use the keyboard to open and close a popupwindow in the magicmirror. Like lets say using the "q" key, will open a popupwindow on magicmirror's webpage. With the iFrame to display web content. |MJØD |Public |
+|[iShow](https://github.com/l0b5ter/iShow) |MJØD |Display a popupwindow |Public |
+|[iPress](https://github.com/l0b5ter/iPress) |MJØD |Show the keycode from the last pressed key. |Public |
+
 <!--
 **l0b5ter/l0b5ter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
