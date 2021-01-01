@@ -12,9 +12,9 @@
 |Title|Temp|Description|Access|
 |:-|:-|:-|:-|
 |[Message-Handler](https://github.com/l0b5ter/Message-Handler) | |Easier and simpler command handling! No longer need to restart your bot when your editing a command or want to add/remove one^^ |Public |
-|├ |[COVID19-for-message-handler](https://github.com/l0b5ter/COVID19-for-message-handler) | Keep track of Corona Virus(COVID-19) cases via rapidapi API. 21 pages totally!|Public |
-|├ |[Corona-for-message-handler](https://github.com/l0b5ter/Corona-for-message-handler) |Keep track of Corona Virus(COVID-19) cases via rapidapi API. 21 pages totally! |Public |
-|└ |[PS2stats-for-message-handler](https://github.com/l0b5ter/PS2stats-for-message-handler) |Show planetside2 players info! This works with every pc server including ps4 servers. |Public |
+|- |[COVID19-for-message-handler](https://github.com/l0b5ter/COVID19-for-message-handler) | Keep track of Corona Virus(COVID-19) cases via rapidapi API. 21 pages totally!|Public |
+|- |[Corona-for-message-handler](https://github.com/l0b5ter/Corona-for-message-handler) |Keep track of Corona Virus(COVID-19) cases via rapidapi API. 21 pages totally! |Public |
+|- |[PS2stats-for-message-handler](https://github.com/l0b5ter/PS2stats-for-message-handler) |Show planetside2 players info! This works with every pc server including ps4 servers. |Public |
 |[Event_Bot](https://github.com/l0b5ter/Event_Bot) | |The Event_bot allows you to set up upcoming events in your server and then notify your members of those events when they happen! |Public |
 |[Halloween-special-discord-bot-](https://github.com/l0b5ter/Halloween-special-discord-bot-) | |Halloween special (discord bot) |Public |
 <!--
