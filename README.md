@@ -20,7 +20,7 @@
 
 ## MMM (MagicMirror)
 |Title|Description|Group|Access|
-|:-|:-|:-|
+|:-|:-|:-|:-|
 |[KeyDisplayed](https://github.com/l0b5ter/KeyDisplayed) |Use the keyboard to open and close a popupwindow in the magicmirror. Like lets say using the "q" key, will open a popupwindow on magicmirror's webpage. With the iFrame to display web content. |MJØD |Public |
 |[iShow](https://github.com/l0b5ter/iShow) |MJØD |Display a popupwindow |Public |
 |[iPress](https://github.com/l0b5ter/iPress) |MJØD |Show the keycode from the last pressed key. |Public |
