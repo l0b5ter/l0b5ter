@@ -25,6 +25,13 @@
 |[iShow](https://github.com/l0b5ter/iShow)  |Display a popupwindow. |MJØD |Public |
 |[iPress](https://github.com/l0b5ter/iPress) |Show the keycode from the last pressed key. |MJØD |Public |
 
+## WiAD
+|Title|Description|Access|
+|:-|:-|:-|
+|[WiAD_launcher (MC-Launcher)](https://github.com/l0b5ter/WiAD_launcher) |Minecraft launcher using the WiAD API, technic packs are also supported. FTB next? |Public |
+|[WiAD StaffApp] |- |Group |
+|[PAW] |Php Access WiAD, get access to interact with the API |Group |
+
 <!--
 **l0b5ter/l0b5ter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
