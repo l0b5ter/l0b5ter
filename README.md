@@ -3,7 +3,7 @@
 ## Streamlabs Chatbot
 |Title|Description|Access|
 |:-|:-:|:-|
-|ChatIsSuperior_StreamlabsCommand(https://github.com/l0b5ter/ChatIsSuperior_StreamlabsCommand) |Allow chat to control your keyboard, with maybe a sound! Commands cost currency..
+|[ChatIsSuperior_StreamlabsCommand](https://github.com/l0b5ter/ChatIsSuperior_StreamlabsCommand) |Allow chat to control your keyboard, with maybe a sound! Commands cost currency..
 ChatIsSuperior_StreamlabsCommand is a twitch script for the streamlabs chatbot that brings the streamer and the viewer closer^^ |Public |
 
 <!--
