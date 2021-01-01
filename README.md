@@ -4,7 +4,9 @@
 |Title|Description|Access|
 |:-|:-|:-|
 |[ChatIsSuperior_StreamlabsCommand](https://github.com/l0b5ter/ChatIsSuperior_StreamlabsCommand) |Allow chat to control your keyboard, with maybe a sound! Commands cost currency ChatIsSuperior_StreamlabsCommand is a twitch script for the streamlabs chatbot that brings the streamer and the viewer closer^^ |Public |
+|[MaxCurrency_StreamlabsCommand](https://github.com/l0b5ter/MaxCurrency_StreamlabsCommand) |Set a max currency so noone in chat will have over that.|Public |
 |[StreamerPS2Online_StreamlabsCommand](https://github.com/l0b5ter/StreamerPS2Online_StreamlabsCommand) |Show which ps2 character the streamer is playing as! I saw that the chatbot can be used in discord, so this script sud work there to. |Public |
+|[StreamerPS2Stats_StreamlabsCommand](https://github.com/l0b5ter/StreamerPS2Stats_StreamlabsCommand) |Show streamer's planetside2 stats! I saw that the chatbot can be used in discord, so this script sud work there to. |Public |
 
 <!--
 **l0b5ter/l0b5ter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
