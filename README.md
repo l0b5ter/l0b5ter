@@ -1,6 +1,11 @@
 ### Hi there, im lobster/loster31345 👋
 22 from Norway, below is a list of variuos codes.
 
+## Twitch
+|Title|Description|Access|
+|:-|:-|:-|
+|[TwitchChannelIntergration](https://github.com/l0b5ter/TwitchChannelIntergration-js-) |Twitch Bot that allows the chat to reedem points, to trigger keystrokes or sound on your computer (Gonna be reworoked) |Public |
+
 ## Streamlabs Chatbot
 |Title|Description|Access|
 |:-|:-|:-|
