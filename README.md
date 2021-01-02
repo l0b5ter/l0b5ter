@@ -1,4 +1,5 @@
 ### Hi there, im lobster/loster31345 👋
+22 from Norway, below is a list of variuos codes.
 
 ## Streamlabs Chatbot
 |Title|Description|Access|
