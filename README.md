@@ -10,7 +10,7 @@
 |[StreamerPS2Stats_StreamlabsCommand](https://github.com/l0b5ter/StreamerPS2Stats_StreamlabsCommand) |Show streamer's planetside2 stats! I saw that the chatbot can be used in discord, so this script sud work there to. |Public |
 
 ## Discord
-|Title|Temp|Description|Access|
+|Title|Modules|Description|Access|
 |:-|:-|:-|:-|
 |[Message-Handler](https://github.com/l0b5ter/Message-Handler) | |Easier and simpler command handling! No longer need to restart your bot when your editing a command or want to add/remove one^^ |Public |
 |- |[COVID19-for-message-handler](https://github.com/l0b5ter/COVID19-for-message-handler) | Keep track of Corona Virus(COVID-19) cases via rapidapi API. 21 pages totally!|Public |
@@ -32,6 +32,21 @@
 |[WiAD_launcher (MC-Launcher)](https://github.com/l0b5ter/WiAD_launcher) |Minecraft launcher using the WiAD API, technic packs are also supported. FTB next? |Public |
 |WiAD StaffApp |- |Group |
 |PAW |Php Access WiAD, get access to interact with the API |Group |
+
+## InGameBots
+|Game|Title|Description|Access|
+|:-|:-|:-|:-|
+|All |CopyCat |Records all your inputs ingame, from mouse movement to keys pressed. Then excutes the recording, as if it was you that was playing. |Patreon |
+|All |ObjectTracker-AimAssist |Finds the object on the screen and moves the cursor to the middel of it. Lets say you have a picture of a ball, then the script will find the ball on the screen and move the cursor to it. So if the ball is moving will make the cursor follow it. First demo vid of it in action: https://streamable.com/jbehz7
+It has become faster and more exact^^ |Patreon |
+|- |AutoSpotter | Never waste another 1ms on spotting! Modes: (Auto, OnFire, Random) |Patreon |
+|- |AutoTracker | When scope is active, the crosshair will follow the target. |Patreon |
+|- |EngineerBot |Ever felt that you need a engineer in your harasser or valkyrie, and your team dont want to be your third wheel. This is a simple engineer bot thats is only made to repair your vehicle from the third seat. |Patreon |
+|- |InfiltratorBot |Acts as a turret with long range. (bullet drop is not included yet) |Patreon |
+|StreamRaiders | | | |
+|- |AutoPlacer | Place a unit everytime you can place (Configurable countdown)  |Patreon |
+|QuestMode | | | |
+|- |RandomDecisionMaking | Opens and picks a random alternative. |Patreon |
 
 <!--
 **l0b5ter/l0b5ter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
