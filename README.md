@@ -59,9 +59,12 @@
 ## Batch Scripts (.bat)
 |Title|Description|Access|
 |:-|:-|:-|
-|[WiAD_launcher (MC-Launcher)](https://github.com/l0b5ter/WiAD_launcher) |Minecraft launcher using the WiAD API, technic packs are also supported. FTB next? |Public |
-|WiAD StaffApp |- |Group |
-|PAW |Php Access WiAD, get access to interact with the API |Group |
+|[GetProgramsRunning](https://github.com/l0b5ter/Batch-Scripts/blob/main/GetProgramsRunning.bat) |Gets all programs running in the background + foreground |Public |
+|[CreateShortcuts](https://github.com/l0b5ter/Batch-Scripts/blob/main/CreateShortcuts.bat) |Create a copy of a dekstop shortcut |Public |
+|[ReCreateShortcuts](https://github.com/l0b5ter/Batch-Scripts/blob/main/RecreateShortcuts.bat) |Replace a desktop shortcut with a new one |Public |
+|[ScreenShot](https://github.com/l0b5ter/Batch-Scripts/blob/main/ScreenShot.bat) |Create a program (.exe) to take screenshots |Public |
+|[SendMail](https://github.com/l0b5ter/Batch-Scripts/blob/main/SendMail.bat) |Send a email |Public |
+|[keylogger](https://github.com/l0b5ter/Batch-Scripts/blob/main/keylogger.bat) |Record keystrokes to a .txt file (Simple and shitty script) |Public |
 
 <!--
 **l0b5ter/l0b5ter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
