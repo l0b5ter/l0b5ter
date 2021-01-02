@@ -47,6 +47,20 @@
 |QuestMode | | | |
 |- |RandomDecisionMaking | Opens and picks a random alternative. |Patreon |
 
+## Visual Computing
+|Title|Description|Access|
+|:-|:-|:-|
+|[WiAD_launcher (MC-Launcher)](https://github.com/l0b5ter/WiAD_launcher) |Minecraft launcher using the WiAD API, technic packs are also supported. FTB next? |Public |
+|WiAD StaffApp |- |Group |
+|PAW |Php Access WiAD, get access to interact with the API |Group |
+
+## Batch Scripts (.bat)
+|Title|Description|Access|
+|:-|:-|:-|
+|[WiAD_launcher (MC-Launcher)](https://github.com/l0b5ter/WiAD_launcher) |Minecraft launcher using the WiAD API, technic packs are also supported. FTB next? |Public |
+|WiAD StaffApp |- |Group |
+|PAW |Php Access WiAD, get access to interact with the API |Group |
+
 <!--
 **l0b5ter/l0b5ter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
