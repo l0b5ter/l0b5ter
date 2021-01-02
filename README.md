@@ -37,8 +37,7 @@
 |Game|Title|Description|Access|
 |:-|:-|:-|:-|
 |All |CopyCat |Records all your inputs ingame, from mouse movement to keys pressed. Then excutes the recording, as if it was you that was playing. |Patreon |
-|All |ObjectTracker-AimAssist |Finds the object on the screen and moves the cursor to the middel of it. Lets say you have a picture of a ball, then the script will find the ball on the screen and move the cursor to it. So if the ball is moving will make the cursor follow it. First demo vid of it in action: https://streamable.com/jbehz7
-It has become faster and more exact^^ |Patreon |
+|All |ObjectTracker-AimAssist |Finds the object on the screen and moves the cursor to the middel of it. Lets say you have a picture of a ball, then the script will find the ball on the screen and move the cursor to it. So if the ball is moving will make the cursor follow it. First demo vid of it in action: https://streamable.com/jbehz7 It has become faster and more exact^^ |Patreon |
 |- |AutoSpotter | Never waste another 1ms on spotting! Modes: (Auto, OnFire, Random) |Patreon |
 |- |AutoTracker | When scope is active, the crosshair will follow the target. |Patreon |
 |- |EngineerBot |Ever felt that you need a engineer in your harasser or valkyrie, and your team dont want to be your third wheel. This is a simple engineer bot thats is only made to repair your vehicle from the third seat. |Patreon |
