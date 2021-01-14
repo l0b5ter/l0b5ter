@@ -56,7 +56,7 @@
 ## Visual Computing
 |Title|Description|Access|
 |:-|:-|:-|
-|[GazeDetectionLeftRight](https://github.com/l0b5ter/UnFinished/blob/main/GazeDetectionLeftRight.py) |Minecraft launcher using the WiAD API, technic packs are also supported. FTB next? |Public |
+|[GazeDetectionLeftRight](https://github.com/l0b5ter/UnFinished/blob/main/GazeDetectionLeftRight.py) | |Public |
 |[FacesOnScreen](https://github.com/l0b5ter/UnFinished/blob/main/FacesOnScreen.py) |Find every face on the screen. (Chnage cascade file to find other things) |Public |
 |[(X,Y)FromCenter](https://github.com/l0b5ter/UnFinished/blob/main/(X%2CY)FromCenter.py) |Find how far your face is away from the middel of the cam (x, y). |Public |
 |[TrackerObjects](https://github.com/l0b5ter/UnFinished/blob/main/TrackerObejcts.py) |Draw a rectangle and track the object in the rectangle (Default uses webcam) |Public |
