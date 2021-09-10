@@ -5,6 +5,7 @@
 |Title|Description|Access|
 |:-|:-|:-|
 |[TwitchChannelIntergration](https://github.com/l0b5ter/TwitchChannelIntergration-js-) |Twitch Bot that allows the chat to reedem points, to trigger keystrokes or sound on your computer (Gonna be reworoked) |Public |
+|[DisTwin](https://github.com/l0b5ter/DisTwin) |DisTwin is a frame which enables cross communication between bots, mainly twitch and discord bots. Thats not all, it allows you to see both bot outputs in one window, along with bot management.  |Public |
 
 ## Streamlabs Chatbot
 |Title|Description|Access|
@@ -23,6 +24,7 @@
 |- |[PS2stats-for-message-handler](https://github.com/l0b5ter/PS2stats-for-message-handler) |Show planetside2 players info! This works with every pc server including ps4 servers. |Public |
 |[Event_Bot](https://github.com/l0b5ter/Event_Bot) | |The Event_bot allows you to set up upcoming events in your server and then notify your members of those events when they happen! |Public |
 |[Halloween-special-discord-bot-](https://github.com/l0b5ter/Halloween-special-discord-bot-) | |Halloween special (discord bot) |Public |
+|[DisTwin](https://github.com/l0b5ter/DisTwin) |DisTwin is a frame which enables cross communication between bots, mainly twitch and discord bots. Thats not all, it allows you to see both bot outputs in one window, along with bot management.  |Public |
 
 ## MMM (MagicMirror)
 |Title|Description|Group|Access|
