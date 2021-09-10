@@ -55,7 +55,7 @@
 |QuestMode | | | |
 |- |RandomDecisionMaking | Opens and picks a random alternative. |Patreon |
 |PokeOne | | | |
-|- |DummyTrainer | Bored of grinding the pokemon levels? 1 button_click and you got yourself a smart IA that grinds for you! |Patreon |
+|- |DummyTrainer | Bored of grinding pokemon levels? 1 button_click and you got yourself a smart IA that grinds for you! |Patreon |
 |- |ShinyHunter | Smart AI to hunt for shinies nearby. |Patreon |
 
 ## Visual Computing
