@@ -1,5 +1,5 @@
 ### Hi there, im lobster/loster31345 👋
-22 from Norway, below is a list of variuos codes.
+23 from Norway, below is a list of variuos codes.
 
 ## Twitch
 |Title|Description|Access|
